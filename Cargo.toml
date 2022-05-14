@@ -1,0 +1,12 @@
+[package]
+name = "ressai"
+version = "0.1.0"
+authors = ["thiolliere <gui.thiolliere@gmail.com>"]
+edition = "2018"
+resolver = "2"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bevy = "*"
+
